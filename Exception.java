@@ -3,6 +3,7 @@ package labexercise;
 import side.InvalidAgeException;
 
 public class Exception {
+// Creating a custom exception
 	public static void main(String args[]) {
 		try {
 			CustomException exception1 = new CustomException();
